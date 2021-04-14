@@ -5,5 +5,5 @@ public interface StudentBiz {
 
     void update(String name);
 
-    void find(String name) throws InterruptedException;
+    String find(String name);
 }

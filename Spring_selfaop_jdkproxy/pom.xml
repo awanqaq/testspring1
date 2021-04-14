@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>spring_aop</artifactId>
+    <artifactId>Spring_selfaop_jdkproxy</artifactId>
 
     <dependencies>
         <!--spring 整合Junit -->

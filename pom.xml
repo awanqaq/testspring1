@@ -8,6 +8,8 @@
         <module>spring_caltools</module>
         <module>MySpringFramework</module>
         <module>spring_aop</module>
+        <module>Spring_selfaop_jdkproxy</module>
+        <module>spring_selfaop_cglibproxy</module>
     </modules>
     <properties>
             <spring.version>5.3.5</spring.version>
@@ -61,6 +63,8 @@
                 <version>5.3.5</version>
                 <type>pom</type>
             </dependency>
+
+
 
         </dependencies>
     </dependencyManagement>

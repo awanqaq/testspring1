@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_selfaop_cglibproxy" />
         <module name="MySpringFramework" />
         <module name="spring_aop" />
+        <module name="Spring_selfaop_jdkproxy" />
         <module name="spring_caltools" />
       </profile>
     </annotationProcessing>
